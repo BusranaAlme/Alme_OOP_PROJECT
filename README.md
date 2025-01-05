@@ -1,1 +1,1 @@
-# QuantamQart- a selling and buying planform layout using C++ 
+# QuantamQart- a selling and buying platform layout using C++ 
